@@ -1,6 +1,6 @@
 ## Hi, I'm Aiden
 
-I am a Computer Science student at UIC with a concentration in computer systems. I am fascinated with working on electronics and coding for systems.
+I am a Computer Science student at UIC with a concentration in Computer Systems. I am fascinated with working on electronics and coding for systems.
 
 <hr>
 

@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Aiden
+
+## I am a Computer Science student at UIC with a concentration in computer systems. I am fascinated with working on electronics and coding for systems. 
+
+
 
 <!--
 **keomanivong115/keomanivong115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

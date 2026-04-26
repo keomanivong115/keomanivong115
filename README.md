@@ -4,7 +4,7 @@ I am a Computer Science student at UIC with a concentration in computer systems.
 
 <hr>
 
-## Tech Skills
+## Tech Stack
 #### Programming Languages: 
 C, C++, Python, SQL
 #### Tools: 
